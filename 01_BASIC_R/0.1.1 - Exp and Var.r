@@ -10,8 +10,8 @@ var <- 0
 #Because the math grades are taken randomly in a collection of 40
 #And the value of each grades does not effect others
 #And because we're rounding the number to having no digit after the comma
-#We have the posibility of each grade to be 1/10
-pos <- 1/10;
+#We have the posibility of each grade to be 1/40
+pos <- 1/40;
 
 for(i in mathGrade){
     #Calculate expectation
